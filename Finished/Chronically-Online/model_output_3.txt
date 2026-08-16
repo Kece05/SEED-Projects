@@ -1,0 +1,63 @@
+```json
+[
+{
+  "query": "crushing equipment",
+  "segment": "mining and construction industries",
+  "revenue_link": "Terex offers crushing equipment used in the mining and construction industries for materials processing.",
+  "geo": "global",
+  "ambiguity_risk": "low",
+  "query_type": "direct"
+},
+{
+  "query": "screening equipment",
+  "segment": "mining and construction industries",
+  "revenue_link": "Terex provides screening equipment utilized in the mining and construction industries for materials processing.",
+  "geo": "global",
+  "ambiguity_risk": "low",
+  "query_type": "direct"
+},
+{
+  "query": "concrete batching plants",
+  "segment": "construction industry",
+  "revenue_link": "Terex sells concrete batching plants used in construction projects worldwide.",
+  "geo": "global",
+  "ambiguity_risk": "low",
+  "query_type": "direct"
+},
+{
+  "query": "excavators",
+  "segment": "construction industry",
+  "revenue_link": "Terex offers excavators for various construction applications globally.",
+  "geo": "global",
+  "ambiguity_risk": "low",
+  "query_type": "direct"
+},
+{
+  "query": "material handling systems",
+  "segment": "logistics and manufacturing industries",
+  "revenue_link": "Terex provides material handling systems for logistics and manufacturing applications.",
+  "geo": "global",
+  "ambiguity_risk": "low",
+  "query_type": "direct"
+},
+{
+  "query": "sorting systems",
+  "segment": "waste and recycling industry",
+  "revenue_link": "Terex sells sorting systems for waste and recycling applications.",
+  "geo": "global",
+  "ambiguity_risk": "low",
+  "query_type": "direct"
+},
+{
+  "query": "shredders",
+  "segment": "materials processing industry",
+  "revenue_link": "Terex offers shredders for materials processing applications.",
+  "geo": "global",
+  "ambiguity_risk": "low",
+  "query_type": "direct"
+},
+{
+  "query": "pneumatic conveyors",
+  "segment": "materials processing industry",
+  "revenue_link": "Terex sells pneumatic conveyors for materials processing applications.",
+  "geo

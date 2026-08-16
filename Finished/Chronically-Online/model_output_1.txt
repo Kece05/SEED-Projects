@@ -1,0 +1,60 @@
+```json
+[
+  {
+    "query": "western boots",
+    "segment": "western enthusiasts",
+    "revenue_link": "western boots are a core product in our store, attracting passionate customers who seek authentic western wear.",
+    "geo": "unspecified",
+    "ambiguity_risk": "low",
+    "query_type": "direct"
+  },
+  {
+    "query": "cowboy hats",
+    "segment": "western enthusiasts",
+    "revenue_link": "cowboy hats complement our western boots, contributing to a full outfit for customers looking to complete their western attire.",
+    "geo": "unspecified",
+    "ambiguity_risk": "low",
+    "query_type": "direct"
+  },
+  {
+    "query": "work boots",
+    "segment": "construction workers",
+    "revenue_link": "work boots are essential for our target demographic of workers seeking dependable footwear.",
+    "geo": "unspecified",
+    "ambiguity_risk": "low",
+    "query_type": "direct"
+  },
+  {
+    "query": "workwear clothing",
+    "segment": "construction workers",
+    "revenue_link": "workwear clothing provides our target audience with durable and practical clothing options.",
+    "geo": "unspecified",
+    "ambiguity_risk": "low",
+    "query_type": "direct"
+  },
+  {
+    "query": "western wear stores near me",
+    "segment": "customers searching for local options",
+    "revenue_link": "our store locations attract customers looking for nearby options to purchase western wear.",
+    "geo": "specific",
+    "ambiguity_risk": "medium",
+    "query_type": "adjacent"
+  },
+  {
+    "query": "best western boots brand",
+    "segment": "comparison shoppers",
+    "revenue_link": "this query reflects customers researching different brands to compare against our offerings.",
+    "geo": "unspecified",
+    "ambiguity_risk": "low",
+    "query_type": "adjacent"
+  },
+  {
+    "query": "western wear for men",
+    "segment": "men's western enthusiasts",
+    "revenue_link": "targeted towards men interested in western fashion, potentially increasing sales to this demographic.",
+    "geo": "unspecified",
+    "ambiguity_risk": "low",
+    "query_type": "direct"
+  },
+  {
+   

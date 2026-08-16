@@ -1,0 +1,63 @@
+{
+"query": "GitLab CI/CD platform usage",
+"segment": "DevOps teams",
+"revenue_link": "GitLab provides CI/CD tools for DevOps teams, driving revenue through subscriptions and integrations.",
+"geo": "Global",
+"ambiguity_risk": "low",
+"query_type": "direct"
+},
+{
+"query": "GitLab for agile project management",
+"segment": "Agile software development teams",
+"revenue_link": "GitLab offers agile project management tools, generating revenue through subscription plans.",
+"geo": "Global",
+"ambiguity_risk": "low",
+"query_type": "direct"
+},
+{
+"query": "GitLab issue tracking",
+"segment": "Software development teams",
+"revenue_link": "GitLab provides issue tracking functionality, contributing to revenue from subscription services.",
+"geo": "Global",
+"ambiguity_risk": "low",
+"query_type": "direct"
+},
+{
+"query": "GitLab CI/CD pipelines",
+"segment": "DevOps engineers",
+"revenue_link": "GitLab offers CI/CD pipeline solutions, driving revenue through subscription-based services.",
+"geo": "Global",
+"ambiguity_risk": "low",
+"query_type": "direct"
+},
+{
+"query": "GitLab deployment automation",
+"segment": "IT operations teams",
+"revenue_link": "GitLab provides deployment automation tools, generating revenue from subscription plans.",
+"geo": "Global",
+"ambiguity_risk": "low",
+"query_type": "direct"
+},
+{
+"query": "GitLab security testing",
+"segment": "Development teams",
+"revenue_link": "GitLab offers security testing features, contributing to revenue from subscription services.",
+"geo": "Global",
+"ambiguity_risk": "low",
+"query_type": "direct"
+},
+{
+"query": "GitLab integration with Jira",
+"segment": "Project management professionals",
+"revenue_link": "Integration with popular tools like Jira expands GitLab's offering, driving revenue through subscription services.",
+"geo": "Global",
+"ambiguity_risk": "low",
+"query_type": "adjacent"
+},
+{
+"query": "GitLab pricing plans",
+"segment": "Potential customers",
+"revenue_link": "Understanding pricing helps potential customers make decisions, contributing indirectly to revenue generation.",
+"geo": "Global",
+"ambiguity_risk": "low",
+"query
